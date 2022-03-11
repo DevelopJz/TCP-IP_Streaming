@@ -38,6 +38,8 @@ TCP/IP 통신에서 클라이언트 역할의 코드
 서버에서 보내는 Byte 정보 디코드 하여 영상 수신  
 클라이언트로 수신된 영상 확인
 
+출처 : https://webnautes.tistory.com/1382
+
 ### txt 파일
 **jpeg 분석 파일**  
 
